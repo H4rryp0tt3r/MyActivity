@@ -12,3 +12,4 @@
 * [Parse String Array from JSON with SwiftyJSON - http://stackoverflow.com/questions/27102666/how-to-parse-string-array-with-swiftyjson](http://stackoverflow.com/questions/27102666/how-to-parse-string-array-with-swiftyjson)
 * [IBDesignable & IBInspectable in iOS - http://nshipster.com/ibinspectable-ibdesignable/](http://nshipster.com/ibinspectable-ibdesignable/)
 * [IBDesignable & IBInspectable in iOS - https://www.appcoda.com/ibdesignable-ibinspectable-tutorial/](https://www.appcoda.com/ibdesignable-ibinspectable-tutorial/)
+* [Protocol driven swift programming (one of the Aha moment!) - https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming](https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming)
