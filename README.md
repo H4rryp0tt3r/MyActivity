@@ -11,3 +11,4 @@
 * [Disable ATS - http://iosdevtips.co/post/121756573323/ios-9-xcode-7-http-connect-server-error](http://iosdevtips.co/post/121756573323/ios-9-xcode-7-http-connect-server-error)
 * [Parse String Array from JSON with SwiftyJSON - http://stackoverflow.com/questions/27102666/how-to-parse-string-array-with-swiftyjson](http://stackoverflow.com/questions/27102666/how-to-parse-string-array-with-swiftyjson)
 * [IBDesignable & IBInspectable in iOS - http://nshipster.com/ibinspectable-ibdesignable/](http://nshipster.com/ibinspectable-ibdesignable/)
+* [IBDesignable & IBInspectable in iOS - https://www.appcoda.com/ibdesignable-ibinspectable-tutorial/](https://www.appcoda.com/ibdesignable-ibinspectable-tutorial/)
