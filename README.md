@@ -14,3 +14,4 @@
 * [IBDesignable & IBInspectable in iOS - https://www.appcoda.com/ibdesignable-ibinspectable-tutorial/](https://www.appcoda.com/ibdesignable-ibinspectable-tutorial/)
 * [Protocol driven swift programming (one of the Aha moment!) - https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming](https://www.raywenderlich.com/148448/introducing-protocol-oriented-programming)
 * [Protocols - Swift Programming Reference - https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
+* [Protocol Oriented Swift - https://www.infoq.com/news/2015/06/protocol-oriented-swift](https://www.infoq.com/news/2015/06/protocol-oriented-swift)
