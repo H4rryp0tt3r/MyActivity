@@ -16,3 +16,4 @@
 * [Protocols - Swift Programming Reference - https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Protocols.html)
 * [Protocol Oriented Swift - https://www.infoq.com/news/2015/06/protocol-oriented-swift](https://www.infoq.com/news/2015/06/protocol-oriented-swift)
 * [Intro to protocol-oriented programming - https://www.toptal.com/swift/introduction-protocol-oriented-programming-swift](https://www.toptal.com/swift/introduction-protocol-oriented-programming-swift)
+* [Dependency injection in Swift -  http://artsy.github.io/blog/2016/06/27/dependency-injection-in-swift/](http://artsy.github.io/blog/2016/06/27/dependency-injection-in-swift/)
