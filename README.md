@@ -20,3 +20,5 @@
 * [Introduction to Swinject - https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-introduction-to-swinject/](https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-introduction-to-swinject/)
 * [Dependency injection with example in Swift - https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-simple-weather-app-example-with-swinject-part-1/](https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-simple-weather-app-example-with-swinject-part-1/)
 * [Using Carthage dependency manager - https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html](https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html)
+* [Using gulp with Jekyll - https://aaronlasseigne.com/2016/02/03/using-gulp-with-jekyll/](https://aaronlasseigne.com/2016/02/03/using-gulp-with-jekyll/)
+
