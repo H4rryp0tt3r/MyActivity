@@ -19,3 +19,4 @@
 * [Dependency injection in Swift -  http://artsy.github.io/blog/2016/06/27/dependency-injection-in-swift/](http://artsy.github.io/blog/2016/06/27/dependency-injection-in-swift/)
 * [Introduction to Swinject - https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-introduction-to-swinject/](https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-introduction-to-swinject/)
 * [Dependency injection with example in Swift - https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-simple-weather-app-example-with-swinject-part-1/](https://yoichitgy.github.io/post/dependency-injection-framework-for-swift-simple-weather-app-example-with-swinject-part-1/)
+* [Using Carthage dependency manager - https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html](https://www.twilio.com/blog/2016/05/getting-started-with-carthage-to-manage-dependencies-in-swift-and-ios.html)
