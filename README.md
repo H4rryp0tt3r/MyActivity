@@ -23,4 +23,5 @@
 * [Using gulp with Jekyll - https://aaronlasseigne.com/2016/02/03/using-gulp-with-jekyll/](https://aaronlasseigne.com/2016/02/03/using-gulp-with-jekyll/)
 * [Introducing Swift package manager - https://www.sitepoint.com/introducing-the-swift-package-manager/](https://www.sitepoint.com/introducing-the-swift-package-manager/)
 * [Using Swift Package manger with Xcode - https://cjwirth.com/2016/03/07/using-xcode-and-spm-together/](https://cjwirth.com/2016/03/07/using-xcode-and-spm-together/)
+* [Getting started with Swift package manager - https://www.twilio.com/blog/2016/10/getting-started-with-swift-package-manager.html](https://www.twilio.com/blog/2016/10/getting-started-with-swift-package-manager.html)
 
