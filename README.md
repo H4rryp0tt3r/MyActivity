@@ -27,3 +27,4 @@
 
 **Feb 2017**
 * [SSL Pinning in iOS - https://infinum.co/the-capsized-eight/how-to-make-your-ios-apps-more-secure-with-ssl-pinning](https://infinum.co/the-capsized-eight/how-to-make-your-ios-apps-more-secure-with-ssl-pinning)
+* [Best practices for implementing TouchID - https://www.punchkick.com/blog/2016/03/31/best-practices-of-implementing-touch-id-within-financial-apps](https://www.punchkick.com/blog/2016/03/31/best-practices-of-implementing-touch-id-within-financial-apps)
