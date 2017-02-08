@@ -25,3 +25,5 @@
 * [Using Swift Package manger with Xcode - https://cjwirth.com/2016/03/07/using-xcode-and-spm-together/](https://cjwirth.com/2016/03/07/using-xcode-and-spm-together/)
 * [Getting started with Swift package manager - https://www.twilio.com/blog/2016/10/getting-started-with-swift-package-manager.html](https://www.twilio.com/blog/2016/10/getting-started-with-swift-package-manager.html)
 
+**Feb 2017**
+* [SSL Pinning in iOS - https://infinum.co/the-capsized-eight/how-to-make-your-ios-apps-more-secure-with-ssl-pinning](https://infinum.co/the-capsized-eight/how-to-make-your-ios-apps-more-secure-with-ssl-pinning)
