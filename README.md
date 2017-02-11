@@ -30,3 +30,4 @@
 * [Best practices for implementing TouchID - https://www.punchkick.com/blog/2016/03/31/best-practices-of-implementing-touch-id-within-financial-apps](https://www.punchkick.com/blog/2016/03/31/best-practices-of-implementing-touch-id-within-financial-apps)
 * [Integrating Touch ID in iOS Applications - https://www.cigital.com/blog/integrating-touch-id-into-ios-applications/](https://www.cigital.com/blog/integrating-touch-id-into-ios-applications/)
 * [Enhanced device security in iOS 9 - http://willowtreeapps.com/ideas/enhanced-device-security-in-ios-9/](http://willowtreeapps.com/ideas/enhanced-device-security-in-ios-9/)
+* [Why fuzzy hashing is cool? - http://thedigitalstandard.blogspot.in/2009/11/why-fuzzy-hashing-is-really-cool.html](http://thedigitalstandard.blogspot.in/2009/11/why-fuzzy-hashing-is-really-cool.html)
