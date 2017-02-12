@@ -32,3 +32,4 @@
 * [Enhanced device security in iOS 9 - http://willowtreeapps.com/ideas/enhanced-device-security-in-ios-9/](http://willowtreeapps.com/ideas/enhanced-device-security-in-ios-9/)
 * [Why fuzzy hashing is cool? - http://thedigitalstandard.blogspot.in/2009/11/why-fuzzy-hashing-is-really-cool.html](http://thedigitalstandard.blogspot.in/2009/11/why-fuzzy-hashing-is-really-cool.html)
 * [How flexbox works - https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
+* [Functional Reactive Awesomeness With Swift - https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/](https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/)
