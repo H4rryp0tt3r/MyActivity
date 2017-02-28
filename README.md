@@ -34,3 +34,4 @@
 * [How flexbox works - https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35](https://medium.freecodecamp.com/an-animated-guide-to-flexbox-d280cf6afc35)
 * [Functional Reactive Awesomeness With Swift - https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/](https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/)
 * [Getting started with RxSwift - https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa](https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa)
+* [iOS Application security Part 20 - Local data storage - http://resources.infosecinstitute.com/ios-application-security-part-20-local-data-storage-nsuserdefaults-coredata-sqlite-plist-files/](http://resources.infosecinstitute.com/ios-application-security-part-20-local-data-storage-nsuserdefaults-coredata-sqlite-plist-files/)
