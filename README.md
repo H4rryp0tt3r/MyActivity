@@ -35,3 +35,4 @@
 * [Functional Reactive Awesomeness With Swift - https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/](https://realm.io/news/altconf-ash-furrow-functional-reactive-swift/)
 * [Getting started with RxSwift - https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa](https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa)
 * [iOS Application security Part 20 - Local data storage - http://resources.infosecinstitute.com/ios-application-security-part-20-local-data-storage-nsuserdefaults-coredata-sqlite-plist-files/](http://resources.infosecinstitute.com/ios-application-security-part-20-local-data-storage-nsuserdefaults-coredata-sqlite-plist-files/)
+* [Parse JSON data using SwiftyJSON in iOS - https://www.hackingwithswift.com/example-code/libraries/how-to-parse-json-using-swiftyjson](https://www.hackingwithswift.com/example-code/libraries/how-to-parse-json-using-swiftyjson)
