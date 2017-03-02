@@ -40,3 +40,4 @@
 * [Serializing Swift Structs to JSON - http://www.sthoughts.com/2016/06/30/swift-3-serializing-swift-structs-to-json/](http://www.sthoughts.com/2016/06/30/swift-3-serializing-swift-structs-to-json/)
 * [Swift the only language with no mocking framework - http://blog.pragmaticengineer.com/swift-the-only-modern-language-with-no-mocking-framework/](http://blog.pragmaticengineer.com/swift-the-only-modern-language-with-no-mocking-framework/)
 * [Real world swift mocking - https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/](https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/)
+* [Swift - Mock or not to mock - http://clean-swift.com/to-mock-or-not-to-mock/](http://clean-swift.com/to-mock-or-not-to-mock/)
