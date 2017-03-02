@@ -38,3 +38,4 @@
 * [Parse JSON data using SwiftyJSON in iOS - https://www.hackingwithswift.com/example-code/libraries/how-to-parse-json-using-swiftyjson](https://www.hackingwithswift.com/example-code/libraries/how-to-parse-json-using-swiftyjson)
 * [Serialization to/from JSON using ObjectMapper - https://softwarejuancarlos.com/2015/12/20/swift-2-examples-10-serialization-tofrom-json-using-objectmapper/](https://softwarejuancarlos.com/2015/12/20/swift-2-examples-10-serialization-tofrom-json-using-objectmapper/)
 * [Serializing Swift Structs to JSON - http://www.sthoughts.com/2016/06/30/swift-3-serializing-swift-structs-to-json/](http://www.sthoughts.com/2016/06/30/swift-3-serializing-swift-structs-to-json/)
+* [Swift the only language with no mocking framework - http://blog.pragmaticengineer.com/swift-the-only-modern-language-with-no-mocking-framework/](http://blog.pragmaticengineer.com/swift-the-only-modern-language-with-no-mocking-framework/)
