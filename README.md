@@ -41,3 +41,4 @@
 * [Swift the only language with no mocking framework - http://blog.pragmaticengineer.com/swift-the-only-modern-language-with-no-mocking-framework/](http://blog.pragmaticengineer.com/swift-the-only-modern-language-with-no-mocking-framework/)
 * [Real world swift mocking - https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/](https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/)
 * [Swift - Mock or not to mock - http://clean-swift.com/to-mock-or-not-to-mock/](http://clean-swift.com/to-mock-or-not-to-mock/)
+* [Using map,reduce,filter in Swift - https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/](https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/)
