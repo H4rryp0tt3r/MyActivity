@@ -42,3 +42,9 @@
 * [Real world swift mocking - https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/](https://realm.io/news/tryswift-veronica-ray-real-world-mocking-swift/)
 * [Swift - Mock or not to mock - http://clean-swift.com/to-mock-or-not-to-mock/](http://clean-swift.com/to-mock-or-not-to-mock/)
 * [Using map,reduce,filter in Swift - https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/](https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/)
+
+**Resuming this after a longtime**
+
+**Aug 2017**
+* [Window and WindowController Tutorial for MacOS - https://www.raywenderlich.com/159287/windows-windowcontroller-tutorial-macos](https://www.raywenderlich.com/159287/windows-windowcontroller-tutorial-macos)
+* [An awesome blog of Julia Evans - https://jvns.ca](https://jvns.ca)
